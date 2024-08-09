@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TNQNHV9');</script>
+<!-- End Google Tag Manager -->
+	
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	
+	<meta name="facebook-domain-verification" content="n2qawnistey6d2hjk8db9me1t4eloq" />
+
+	
+    <!-- SEO Meta Tags -->
+    <meta name="description"
+        content="Mágico #1 para Crianças. Mágico Duarte - O Comediante para Crianças. O mais divertido enterteiner para a sua festa infantil.">
+    <meta name="author" content="MagicoDuarte">
+	
+
+    <!-- OG Meta Tags to improve the way the post looks when you share the page on LinkedIn, Facebook, Google+ -->
+    <meta property="og:site_name" content="" /> <!-- website name -->
+    <meta property="og:site" content="" /> <!-- website link -->
+    <meta property="og:title" content="" /> <!-- title shown in the actual shared post -->
+    <meta property="og:description" content="" /> <!-- description shown in the actual shared post -->
+    <meta property="og:image" content="" /> <!-- image link, make sure it's jpg -->
+    <meta property="og:url" content="" /> <!-- where do you want your post to link to -->
+    <meta property="og:type" content="article" />
+    <!--Favicon-->
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+    <link rel="icon" href="images/favicon.png" type="image/x-icon">
+
+    <!-- Website Title -->
+    <title>Mágico Duarte - Comendiante Para Crianças</title>
+
+    <!-- Styles -->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700,700i" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/fontawesome-all.css" rel="stylesheet">
+    <link href="css/swiper.css" rel="stylesheet">
+    <link href="css/magnific-popup.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+
+
+</head>
+
+<body data-spy="scroll" data-target=".fixed-top">
+	
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TNQNHV9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+	
+	
+    <!-- Preloader -->
+  <!--  <div class="spinner-wrapper">
+        <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+        </div>
+    </div>
+-->
+    <!-- end of preloader -->
+
+
+
+    <!-- Header -->
+    <header id="header" class="header">
+
+        <div class="cabecalho"><img src="./images/logo.png" alt="magicoduarte" height="200px" width="200px" />
+        </div>
+
+        <div class="header-content">
+            <div class="container">
+
+
+
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="text-container">
+                            <h2>A ANIMAÇÃO MAIS <br><span id="js-rotating">DIVERTIDA, MÁGICA, HILARIANTE</span><br> PARA
+                                A SUA FESTA INFANTIL</h2>
+                        </div>
+                    </div> <!-- end of col -->
+                    <div class="col-lg-6">
+
+                        <!-- Contact -->
+                        <div id="contact" class="form">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-lg-12">
+                                        <h4><span id="js-rotating">PEÇA O SEU ORÇAMENTO!</span></h4>
+
+
+                                    </div> <!-- end of col -->
+                                </div> <!-- end of row -->
+                                <div class="row">
+                                    <div class="col-lg-6 offset-lg-3">
+
+                                        <!-- Contact Form -->
+                                        <form id="contactForm" data-toggle="validator" data-focus="false">
+                                            <div class="form-group">
+                                                <input type="text" class="form-control-input" id="cname" required>
+                                                <label class="label-control" for="cname">Nome</label>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="email" class="form-control-input" id="cemail" required>
+                                                <label class="label-control" for="cemail">E-mail</label>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <input type="text" class="form-control-input" id="cnumber" required>
+                                                <label class="label-control" for="cname">Telemóvel</label>
+                                                <div class="help-block with-errors"></div>
+                                            </div>
+                                            <div class="form-group">
+                                                <button type="submit" class="form-control-submit-button">PEDIR
+                                                    ORÇAMENTO</button>
+                                            </div>
+                                            <div class="form-message">
+                                                <div id="cmsgSubmit" class="h3 text-center hidden"></div>
+                                            </div>
+                                        </form>
+                                      
+                                        <!-- end of contact form -->
+
+                                    </div> <!-- end of image-container -->
+                                </div> <!-- end of col -->
+                            </div> <!-- end of row -->
+                        </div> <!-- end of container -->
+                    </div> <!-- end of header-content -->
+		</header>
+		<!-- end of header -->
+
+
+
+
+    <!-- Features -->
+    <div id="features" class="tabs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>ESTÁ À PROCURA DE UM MOMENTO MÁGICO PARA O PRÓXIMO EVENTO INFANTIL?</h2>
+                    <div class="p-heading p-large">Este será um espetáculo hilariante apresentado ao estilo louco do
+                        Mágico Duarte. Será uma festa que seu filho jamais esquecerá!</div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+
+
+                <!-- Tabs Content-->
+                <div class="tab-content" id="lenoTabsContent">
+
+                    <!-- Tab -->
+                    <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
+                        <div class="container">
+                            <div class="row">
+
+                                <!-- Icon Cards Pane -->
+                                <div class="col-lg-4 col-xl-6">
+                                    <div class="card left-pane first">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">PENSADO PARA AS CRIANÇAS</h4>
+                                                <p>A crianças não ficam apenas sentadas a assistir ao espetáculo. Cada
+                                                    momento é repleto de interação com o público!</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-compass"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card left-pane">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">EXTREMAMENTE ENGRAÇADO</h4>
+                                                <p>As crianças vão rebolar no chão de tanto rir. No entanto, todos os
+                                                    adultos também vão rir e adorar o espetáculo!</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-file-code"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card left-pane">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">OPORTUNIDADE</h4>
+                                                <p>Você tem a oportunidades de tirar fotografias do seu filho a fazer
+                                                    magia para o público. O mágico deixa o palco, e o seu filho(a)
+                                                    torna-se a verdadeira estrela do espetáculo, já que ele(a) faz a
+                                                    magia acontecer sozinho(a), sem precisar de ajuda!</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-gem"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end of icon cards pane -->
+
+
+                                <!-- Icon Cards Pane -->
+                                <div class="col-lg-4 col-xl-6">
+                                    <div class="card right-pane first">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="far fa-bookmark"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">MUITA ENERGIA</h4>
+                                                <p>Cada espetáculo é extremamente energético e adaptado a cada faixa
+                                                    etária. As crianças não vão querer que a diversão acabe. </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card right-pane">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="far fa-bolt"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">SURPRESAS PARA TODOS</h4>
+                                                <p>O mágico entregará uma surpresa a todas as crianças no final do
+                                                    espetáculo.</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card right-pane">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="fas fa-cube"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">MAGIA A SÉRIO</h4>
+                                                <p>Não há truques para enganar bebés. O espetáculo é focado na diversão
+                                                    das crianças através de momentos cómicos com truques de magia que
+                                                    vão enganar toda a gente na sala!</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end of icon cards pane -->
+
+                            </div> <!-- end of row -->
+                        </div> <!-- end of container -->
+                    </div> <!-- end of tab-pane -->
+                    <!-- end of tab -->
+
+                    <!-- Tab -->
+                    <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
+                        <div class="container">
+                            <div class="row">
+
+
+                                <!-- end of image pane -->
+
+                               
+                                            </div>
+                                        </div>
+                                    </div> <!-- end of icon cards area -->
+                                </div> <!-- end of col-md-8 -->
+                                <!-- end of text and icon cards area -->
+
+                            </div> <!-- end of row -->
+                        </div> <!-- end of container -->
+                    </div> <!-- end of tab-pane -->
+                    <!-- end of tab -->
+    <!-- end of features -->
+
+				
+
+    <!-- Video -->
+    <div id="preview" class="basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>VÍDEO DO MÁGICO DUARTE EM AÇÃO</h2>
+                    <div class="p-heading p-large">O mágico Duarte garante um espetáculo incrível no seu próximo evento,
+                        com magia para toda a família! Na sua festa de Natal, na festa de Halloween, no dia Mundial da
+                        Criança ou na festa de Final de Ano.</div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Video Preview -->
+                    <div class="image-container">
+                        <div class="video-wrapper">
+                            <iframe width="100%" height="450" src="https://www.youtube.com/embed/qnVWrmlAdzQ"
+                                frameborder="0"
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                                allowfullscreen></iframe>
+
+                            <span></span>
+
+                        </div>
+                        <!-- end of video-wrapper -->
+                    </div> <!-- end of image-container -->
+                    <!-- end of video preview -->
+
+                    <div class="TabelaBotao">
+                        <button type="submit" class="botao" onclick="window.location.href='#header'">PEDIR
+                            ORÇAMENTO</button>
+
+                    </div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-1 -->
+    <!-- end of video -->
+
+
+				
+    <!-- Testimonials -->
+    <div class="slider-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>QUEM CONHECE, RECOMENDA!</h2><br><br />
+                    <!-- Card Slider -->
+                    <div class="slider-container">
+                        <div class="swiper-container card-slider">
+                            <div class="swiper-wrapper">
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/MaeAfonsoResultado.webp" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">"Olá Magico Duarte, Obrigada pelo espetáculo de
+                                                hoje. Foi muito bom e toda gente na festa deu um ótimo feedback.
+                                                Obrigada por fazer rir tanto as crianças como os adultos. Você tem um dom
+                                                e um grande talento. Iremo-nos encontrar mais vezes, com toda a certeza".
+                                            </p>
+                                            <p class="testimonial-author">Carla Pereira - Mãe do Afonso</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/PedroPAPResultado.webp" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">"Mágico Duarte, queria apenas dizer OBRIGADO! Sem
+                                                o Duarte a nossa noite de Halloween não teria sido a mesma coisa. Toda a
+                                                gente com quem falamos concordaram que o você foi a melhor parte da
+                                                festa. Os miúdos estavam entusiasmadíssimos. Continue com o seu bom
+                                                trabalho e para o ano encontraremo-nos novamente."</p>
+                                            <p class="testimonial-author">Pedro Ferreira - Presidente Associação de Pais
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/MaeFranciscaResultado.webp" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">"Obrigada pelo espetáculo maravilhoso da festa de
+                                                aniversário da Francisca. Apesar de ser o terceiro ano consecutivo, as
+                                                crianças continuam a delirar com as suas magias. É incrível como
+                                                consegue manter todas as crianças entretidas! Elas adoraram e
+                                                os adultos também. Muito obrigada!"</p>
+                                            <p class="testimonial-author">Teresa Amaro - Mãe da Francisca</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/MaeRitaResultado.webp" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">"Mágico Duarte, Obrigada mais uma vez pelo
+                                                maravilhoso espetáculo de magia que você deu no aniversário de Ritinha.
+                                                Você conseguiu deixar toda a gente bem disposta no espetáculo e conseguiu
+                                                fazer rir a Ritinha e os amiguinhos durante todo o espetáculo. Até
+                                                minhas sobrinhas de 16 anos se divertiram imenso. Muito obrigada
+                                                novamente por fazer com que esta festa de aniversário tenha ficado na memória de todos."
+                                            </p>
+                                            <p class="testimonial-author">Fernanda Correia - Mãe da Rita</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/PaiHelenaResultado.webp" alt="alternative">
+
+                                        <div class="card-body">
+                                            <p class="testimonial-text">"Ficamos muito satisfeitos com o desempenho do
+                                                Mágico! As crianças participaram muito no espetáculo, e divertiram-se
+                                                imenso. Elas só falavam do mágico quando o espetáculo terminou.
+                                                Recomendamos muito! Muito obrigado Mágico Duarte."</p>
+                                            <p class="testimonial-author">Sérgio Monteiro - Pai da Helena</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <div class="card">
+                                        <img class="card-image" src="images/AnaProfessoraResultado.webp" alt="alternative">
+                                        <div class="card-body">
+                                            <p class="testimonial-text">"Queria lhe dizer que você superou todas as
+                                                nossas expectativas. De longe! Conseguiu entreter TODOS na plateia dos 3
+                                                aos 79 anos. Dificilmente um grupo com tantas crianças fica sentada por
+                                                tanto tempo! Eles riram durante todo o espetáculo. Muitos parabéns!"</p>
+                                            <p class="testimonial-author">Ana Barbosa - Professora 1º Ciclo</p>
+                                        </div>
+                                    </div>
+                                </div> <!-- end of swiper-slide -->
+                                <!-- end of slide -->
+
+                            </div> <!-- end of swiper-wrapper -->
+
+                            <!-- Add Arrows -->
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+
+
+
+                            <!-- end of add arrows -->
+
+                        </div> <!-- end of swiper-container -->
+                    </div> <!-- end of slider-container -->
+                    <!-- end of card slider -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+		
+		
+		<div class="TabelaBotao">
+            <button type="submit" class="botao" onclick="window.location.href='#header'">PEDIR ORÇAMENTO</button>
+        </div>
+		
+		
+    </div> <!-- end of slider-1 -->
+    <!-- end of testimonials -->
+				
+				
+				
+    <!-- Details 1 -->
+    <div id="details" class="basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <img class="img-fluid" src="./images/magico-palcoResultado.webp" alt="alternative">
+                </div> <!-- end of text-container -->
+            </div> <!-- end of col -->
+        </div> <!-- end of row -->
+    </div> <!-- end of container -->
+    <!-- end of details 1 -->
+
+
+  
+
+  
+
+    <!-- Download -->
+    <div class="basic-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xl-6">
+                    <div class="text-container">
+                        <h2>Super Bónus</h2>
+                        <p class="p-large">Pode fazer download gratuitamente do Cartaz do Espetáculo, assim
+                            como dos Convites de Aniversário personalizados! Basta imprimir e entregar aos seus convidados!</p>
+
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6 col-xl-6">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/logo.png" alt="alternative">
+                    </div> <!-- end of img-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+        <div class="TabelaBotao">
+            <button type="submit" class="botao" onclick="window.location.href='#header'">PEDIR ORÇAMENTO</button>
+
+        </div>
+    </div> <!-- end of basic-4 -->
+    <!-- end of download -->
+
+
+				
+
+    <!-- Screenshots -->
+    <div class="slider-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Image Slider -->
+                    <div class="slider-container">
+                        <div class="swiper-container image-slider">
+                            <div class="swiper-wrapper">
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-1.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-1.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-2.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-2.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-3.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-3.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-4.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-4.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-5.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-5.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-6.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-6.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-7.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-7.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-8.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-8.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-9.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-9.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                                <!-- Slide -->
+                                <div class="swiper-slide">
+                                    <a href="images/screenshot-10.png" class="popup-link" data-effect="fadeIn">
+                                        <img class="img-fluid" src="images/screenshot-10.png" alt="alternative">
+                                    </a>
+                                </div>
+                                <!-- end of slide -->
+
+                            </div> <!-- end of swiper-wrapper -->
+
+                            <!-- Add Arrows -->
+                            <div class="swiper-button-next"></div>
+                            <div class="swiper-button-prev"></div>
+                            <!-- end of add arrows -->
+
+                        </div> <!-- end of swiper-container -->
+                    </div> <!-- end of slider-container -->
+                    <!-- end of image slider -->
+
+							
+		        <div class="TabelaBotao">
+            <button type="submit" class="botao" onclick="window.location.href='#header'">PEDIR ORÇAMENTO</button>
+
+        </div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of slider-2 -->
+    <!-- end of screenshots -->
+
+
+				
+				
+				
+
+    <!-- Footer -->
+    <div class="footer">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+        <a href="https://wa.me/351915434383?text=Olá Mágico. Quero um orçamento para um espetáculo de magia infantil" style="position:fixed;width:60px;height:60px;bottom:40px;right:40px;background-color:#25d366;color:#FFF;border-radius:50px;text-align:center;font-size:30px;box-shadow: 1px 1px 2px #888;
+          z-index:1000;" target="_blank">
+        <i style="margin-top:16px" class="fa fa-whatsapp"></i>
+        </a>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>SOBRE O MÁGICO</h2>
+                    <div class="p-heading p-large">O Mágico Duarte é de Braga e conta com mais de 8 anos de experiência
+                        no entertenimento. É um dos principais enterteiners infantis em Portugal com varios espetáculos em Câmaras
+                        Municipais, Bibliotecas, etc.</div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of footer -->
+    <!-- end of footer -->
+
+
+    <!-- Copyright -->
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="p-small">Copyright © 2020 Mágico Duarte - Todos os
+                        Direitos Reservados</p>
+                </div> <!-- end of col -->
+            </div> <!-- enf of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of copyright -->
+    <!-- end of copyright -->
+
+
+    <!-- Scripts -->
+    <script src="js/jquery.min.js"></script> <!-- jQuery for Bootstrap's JavaScript plugins -->
+    <script src="js/popper.min.js"></script> <!-- Popper tooltip library for Bootstrap -->
+    <script src="js/bootstrap.min.js"></script> <!-- Bootstrap framework -->
+    <script src="js/jquery.easing.min.js"></script> <!-- jQuery Easing for smooth scrolling between anchors -->
+    <script src="js/swiper.min.js"></script> <!-- Swiper for image and text sliders -->
+    <script src="js/jquery.magnific-popup.js"></script> <!-- Magnific Popup for lightboxes -->
+    <script src="js/morphext.min.js"></script> <!-- Morphtext rotating text in the header -->
+    <script src="js/validator.min.js"></script> <!-- Validator.js - Bootstrap plugin that validates forms -->
+    <script src="js/scripts.js"></script> <!-- Custom scripts -->
+
+</body>
+
+</html>
